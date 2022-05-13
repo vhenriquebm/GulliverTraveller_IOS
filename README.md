@@ -1,5 +1,5 @@
 
-<h1> Projeto Gulliver Traveller Para IOS </h1>
+<h1> Projeto Gulliver Traveller para IOS </h1>
 
 Essa é uma versão do website Gulliver Traveller que desenvolvi para faculdade em IOS. 
 

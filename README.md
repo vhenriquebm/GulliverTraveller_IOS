@@ -3,6 +3,8 @@
 
 Essa é uma versão do website Gulliver Traveller que desenvolvi para faculdade em IOS. 
 
+Principais tecnologias utilizadas: Storyboard
+
 # Fluxo de cadastro do usuário
 
 1. Desenvolvi 3 controllers para que o usuário possa cadastrar os seus dados. sendo essas telas: cadastro, adicionar endereço e confirmação. 
